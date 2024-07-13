@@ -1,7 +1,6 @@
 ## Hi there, I'm Parth! 👋
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761173bd9a068d6f4ccb3d73276ea24c7b4c9cb54760&rid=giphy.gif&ct=g" />  
-
+<img style="transform: translate(60px,120px);" align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761173bd9a068d6f4ccb3d73276ea24c7b4c9cb54760&rid=giphy.gif&ct=g" />  
 
 ### Full-Stack Software Engineer | Software Development Enthusiast | Technophile
 
@@ -12,7 +11,7 @@
 - ⚡ Techthusiast
 
 ---
-<br><br>
+
 
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthxrawat&show_icons=true&theme=dark)
 
