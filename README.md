@@ -11,6 +11,7 @@
 - ⚡ Techthusiast
 
 ---
+<div><br><br><br><br><br><br><br></div>
 
 
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthxrawat&show_icons=true&theme=dark)
