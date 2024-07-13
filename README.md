@@ -26,7 +26,9 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"><br></code>
+<code><img width=24px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /><br></code>
+<code><img width=24px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"><br></code>
+<code><img width=24px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><br></code>
 <code><img width=24px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"><br></code>
 <br>
 
