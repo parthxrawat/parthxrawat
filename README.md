@@ -2,7 +2,7 @@
 
 <img style="transform: translate(60px,120px);" align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761173bd9a068d6f4ccb3d73276ea24c7b4c9cb54760&rid=giphy.gif&ct=g" />  
 
-### Full-Stack Software Engineer | Software Development Enthusiast | Technophile
+<br><br>### Full-Stack Software Engineer | Software Development Enthusiast | Technophile
 
 
 - 🔭 I’m currently working to become a Full Stack Developer
